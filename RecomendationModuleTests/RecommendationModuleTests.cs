@@ -1,7 +1,4 @@
-using System.Collections.Generic;
 using Xunit;
-using LW3.Recommendation;
-
 namespace LW3.Recommendation.Tests
 {
     public class RecommendationModuleTests
